@@ -1,0 +1,32 @@
+html {
+  background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRozLEB1JNA1F0_nx9bJVXzy-kRNCANJJv1TQ&usqp=CAU");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.App {
+  background: #d8a669;
+  font-family: sans-serif;
+  text-align: center;
+  border: 2px solid #ffb877;
+  height: 250px;
+  width: 300px;
+  margin: auto;
+  margin-top: 150px;
+  box-shadow: 10px 10px 10px #ac8159;
+}
+#btn {
+  margin: 7px;
+  padding: 5px;
+  width: 260px;
+}
+.input {
+  width: 250px;
+  margin: 2px;
+  padding: 5px;
+}
+
+label {
+  color: red;
+}

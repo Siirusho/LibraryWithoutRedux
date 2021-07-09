@@ -1,0 +1,46 @@
+html,
+body {
+  background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRozLEB1JNA1F0_nx9bJVXzy-kRNCANJJv1TQ&usqp=CAU");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+#addbookform {
+  width: 850px;
+  height: 200px;
+  margin-top: 0px;
+  padding: 20px;
+  border: 2px solid #ffb877;
+  display: inline-block;
+  background-color: #d8a669;
+  margin: 50px 80px 80px 80px;
+  box-shadow: 10px 10px 10px #ac8159;
+}
+
+#addbookform > form > input {
+  margin: 2px;
+  padding: 5px;
+}
+
+.bookslist {
+  width: 900px;
+  border: 2px solid #ffb877;
+  display: inline-block;
+  background-color: #d8a669;
+  margin: 0 80px 80px 80px;
+  box-shadow: 10px 10px 10px #ac8159;
+}
+
+table {
+  border-collapse: collapse;
+}
+th {
+  padding: 10px;
+}
+td {
+  padding: 10px;
+}
+#logout {
+  margin: 30px;
+  float: right;
+}
